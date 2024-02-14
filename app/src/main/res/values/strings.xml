@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parará</string>
+    <string name="clique_aqui">Clique aqui!</string>
+    <string name="Pa">Pa</string>
+    <string name="ra">Ra</string>
+    <string name="rá">Rá</string>
+    <string name="parara">Parará</string>
+    <string name="final_text">Curioso(a)</string>
+    <string name="erro_no_app">erro no app</string>
+    <string name="dev_alysson">Dev Alysson</string>
+</resources>
